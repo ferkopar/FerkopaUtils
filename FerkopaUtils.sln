@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FerkopaUtils", "FerkopaUtils\FerkopaUtils.csproj", "{254271D0-4784-4E48-83F4-17A44F1E8C36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodaTime", "NodaTime-1.3.0-src\src\NodaTime\NodaTime.csproj", "{42B687A6-0F76-4638-A372-161C922A998B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Portable|Any CPU = Debug Portable|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release Portable|Any CPU = Release Portable|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Signed Release Portable|Any CPU = Signed Release Portable|Any CPU
+		Signed Release|Any CPU = Signed Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Debug Portable|Any CPU.ActiveCfg = Debug|Any CPU
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Debug Portable|Any CPU.Build.0 = Debug|Any CPU
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Release Portable|Any CPU.ActiveCfg = Release .Net 4|Any CPU
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Release Portable|Any CPU.Build.0 = Release .Net 4|Any CPU
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Signed Release Portable|Any CPU.ActiveCfg = Release|Any CPU
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Signed Release Portable|Any CPU.Build.0 = Release|Any CPU
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Signed Release|Any CPU.ActiveCfg = Release|Any CPU
+		{254271D0-4784-4E48-83F4-17A44F1E8C36}.Signed Release|Any CPU.Build.0 = Release|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Debug Portable|Any CPU.ActiveCfg = Debug Portable|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Debug Portable|Any CPU.Build.0 = Debug Portable|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Release Portable|Any CPU.ActiveCfg = Release Portable|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Release Portable|Any CPU.Build.0 = Release Portable|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Signed Release Portable|Any CPU.ActiveCfg = Signed Release Portable|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Signed Release Portable|Any CPU.Build.0 = Signed Release Portable|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Signed Release|Any CPU.ActiveCfg = Signed Release|Any CPU
+		{42B687A6-0F76-4638-A372-161C922A998B}.Signed Release|Any CPU.Build.0 = Signed Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
