@@ -66,6 +66,12 @@ namespace FerkopaUtils
             return (T)XmlDeserializeFromString(objectData, typeof(T));
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="objectData"></param>
+        /// <param name="type"></param>
+        /// <returns></returns>
         public static object XmlDeserializeFromString(this string objectData, Type type)
         {
             var serializer = new XmlSerializer(type);
